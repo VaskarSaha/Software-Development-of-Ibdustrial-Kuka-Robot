@@ -1,6 +1,8 @@
 # SDIR Programming Project
 
 This project is designed for the SDIR programming project using CoppeliaSim and Python. It communicates with CoppeliaSim through the ZMQ Remote API.
+## What I have done here?
+In this file, I developed inverse kinematics, forward kinematics, PTP and lin movement file.
 
 ## Prerequisites
 
